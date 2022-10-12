@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "24b4a4ce-f0a5-4722-9b8c-87bd29b43f51",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 150,
+  "height": 150,
+  "platformSettings": {},
+  "subMetas": {
+    "Damage-Bomb-icon": {
+      "ver": "1.0.6",
+      "uuid": "d2de12f1-8de3-42c9-8ad2-8553482e933b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "24b4a4ce-f0a5-4722-9b8c-87bd29b43f51",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 23,
+      "trimY": 23,
+      "width": 105,
+      "height": 105,
+      "rawWidth": 150,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
